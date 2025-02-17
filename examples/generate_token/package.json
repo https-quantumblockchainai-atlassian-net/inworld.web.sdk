@@ -14,7 +14,7 @@
   "dependencies": {
     "@inworld/nodejs-sdk": "1.10.1",
     "cors": "^2.8.5",
-    "dotenv": "^16.0.1",
+    "dotenv": "^16.4.7",
     "express": "^4.19.2"
   }
 }
