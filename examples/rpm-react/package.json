@@ -8,7 +8,7 @@
     "@inworld/web-core": "2.5.0",
     "@inworld/web-threejs": "1.5.0",
     "@mui/icons-material": "^5.11.11",
-    "@mui/material": "^5.11.13",
+    "@mui/material": "^7.0.0",
     "@pmndrs/assets": "^1.6.0",
     "@react-three/drei": "9.105.6",
     "@react-three/fiber": "^8.16.6",
